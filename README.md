@@ -9,25 +9,30 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
 
 # Repositories
 
-## [Mario_PPO_RND](https://github.com/CVHvn/Mario_PPO_RND)
-- Playing Super Mario Bros with Proximal Policy Optimization (PPO) and Random Network Distillation (RND)
+<a href="https://github.com/CVHvn/Mario_PPO_RND">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_PPO_RND&theme=radical" />
+</a>    
+<a href="https://github.com/CVHvn/Mario_PPO">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_PPO&theme=radical" />
+</a>
 
-## [Mario_PPO](https://github.com/CVHvn/Mario_PPO)
-- Playing Super Mario Bros with Proximal Policy Optimization (PPO)
+<a href="https://github.com/CVHvn/Mario_A2C">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_A2C&theme=radical" />
+</a>    
+<a href="https://github.com/CVHvn/Finetune_LLM">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Finetune_LLM&theme=radical" />
+</a>
 
-## [Mario_A2C](https://github.com/CVHvn/Mario_A2C)
-- Playing Super Mario Bros with Advantage Actor Critic (A2C)
+<a href="https://github.com/CVHvn/Vietnamese-text-classification">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Vietnamese-text-classification&theme=radical" />
+</a>    
+<a href="https://github.com/CVHvn/Mario_LSTM_PPO">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_LSTM_PPO&theme=radical" />
+</a>
 
-## [Finetune_LLM](https://github.com/CVHvn/Finetune_LLM)
-- Finetune opensource llm like Gemma-2, Phi-3, Llama-3, ... on custom dataset
-
-## [Vietnamese-text-classification](https://github.com/CVHvn/Vietnamese-text-classification)
-- Finetune e5 base multilingual with synthetic vietnamese students feedback corpus (Torch and Tensorflow 2)
-
-## [Mario_LSTM_PPO](https://github.com/CVHvn/Mario_LSTM_PPO)
-- Playing Super Mario Bros with Recurrent Proximal Policy Optimization (LSTM PPO)
-
-## [Time_Series](https://github.com/CVHvn/Time_Series)
+<a href="https://github.com/CVHvn/Time_Series">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Time_Series&theme=radical" />
+</a>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CVHvn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
