@@ -37,6 +37,10 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Time_Series&theme=radical" />
 </a>
 
+<a href="https://github.com/CVHvn/Mario_PPO_DRND">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_PPO_DRND&theme=radical" />
+</a>  
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CVHvn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CVHvn&theme=radical&hide_border=false)<br/>
