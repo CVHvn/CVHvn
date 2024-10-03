@@ -1,5 +1,5 @@
 # 💫About Me :
-I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and CV. I have more experience with NLP and RL like llm, chatbot, deploy nlp services, implement RL algorithms..
+I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and CV. I have more experience with NLP and RL like LLM, chatbot, deploy nlp services, implement RL algorithms..
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/viethoang.chuong.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cvhvn) 
@@ -23,18 +23,18 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Finetune_LLM&theme=radical" />
 </a>
 
+<a href="https://github.com/CVHvn/Evaluate_Vietnamese_Embedding">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Evaluate_Vietnamese_Embedding&theme=radical" />
+</a>
+<a href="https://github.com/CVHvn/Mario_A2C">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_A2C&theme=radical" />
+</a>
+
 <a href="https://github.com/CVHvn/Vietnamese-text-classification">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Vietnamese-text-classification&theme=radical" />
 </a>    
 <a href="https://github.com/CVHvn/Mario_LSTM_PPO">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_LSTM_PPO&theme=radical" />
-</a>
-
-<a href="https://github.com/CVHvn/Mario_A2C">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_A2C&theme=radical" />
-</a>    
-<a href="https://github.com/CVHvn/Time_Series">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Time_Series&theme=radical" />
 </a>
 
 <a href="https://github.com/CVHvn/Mario_PPO_DRND">
@@ -43,6 +43,10 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
 <a href="https://github.com/CVHvn/VN-Traffic-Maritime-Law-RAG-QA">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=VN-Traffic-Maritime-Law-RAG-QA&theme=radical" />
 </a>  
+
+<a href="https://github.com/CVHvn/Time_Series">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Time_Series&theme=radical" />
+</a>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CVHvn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
