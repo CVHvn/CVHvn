@@ -45,8 +45,8 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=VN-Traffic-Maritime-Law-RAG-QA&theme=radical" />
 </a>  
 
-<a href="https://github.com/CVHvn/Mario_A2C_A3C">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_A2C_A3C&theme=radical" />
+<a href="https://github.com/CVHvn/Mario_A2C_A3C_ACKTR">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_A2C_A3C_ACKTR&theme=radical" />
 </a>
 <a href="https://github.com/CVHvn/Time_Series">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Time_Series&theme=radical" />
