@@ -16,8 +16,8 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Finetune_LLM&theme=radical" />
 </a>
 
-<a href="https://github.com/CVHvn/Mario_NovelD">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_NovelD&theme=radical" />
+<a href="https://github.com/CVHvn/Mario_LSTM_PPO">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_LSTM_PPO&theme=radical" />
 </a>
 <a href="https://github.com/CVHvn/Mario_PTR_PPO">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_PTR_PPO&theme=radical" />
@@ -37,8 +37,8 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_NGU&theme=radical" />
 </a>
 
-<a href="https://github.com/CVHvn/Mario_PPO_E3B">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_PPO_E3B&theme=radical" />
+<a href="https://github.com/CVHvn/Mario_NovelD">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_NovelD&theme=radical" />
 </a>
 <a href="https://github.com/CVHvn/VN-Traffic-Maritime-Law-RAG-QA">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=VN-Traffic-Maritime-Law-RAG-QA&theme=radical" />
@@ -50,6 +50,14 @@ I am data scientist with 2.5 years experience. I have knowledge in NLP, RL and C
 <a href="https://github.com/CVHvn/Vietnamese-text-classification">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Vietnamese-text-classification&theme=radical" />
 </a>
+
+<a href="https://github.com/CVHvn/Mario_Synchronous_R2D2">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_Synchronous_R2D2&theme=radical" />
+</a>
+<a href="https://github.com/CVHvn/Mario_PPO_E3B">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CVHvn&repo=Mario_PPO_E3B&theme=radical" />
+</a>  
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CVHvn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
